@@ -8,7 +8,7 @@
 - **Web Teknolojileri:** .NET Core Web API, React (TypeScript, Vite), HTML, CSS
 - **Veritabanları ve Araçlar:** MS SQL Server (T-SQL), MySQL, Git, GitHub
 - **Yapay Zeka ve IoT:** CNN (TensorFlow, Keras), MQTT, ESP32, Arduino
-- **Tasarım ve Yönetim:** Figma (UI/UX), Draw.io, Çevik/Scrum
+- **Tasarım ve Yönetim:** Figma (UI/UX), Draw.io
 
 ### 🏗️ Öne Çıkan Projeler
 
